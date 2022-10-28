@@ -1,6 +1,6 @@
 # Previsão do tempo
 
-- Projeto externo
+> Projeto externo
 
 > Uma aplicação web para acompanhar o clima de qualquer lugar do mundo em tempo real, voce pode obter informaçoes como: Localização, temperatura , a condição do tempo, umidade do ar e a velocidade do vento.
 
