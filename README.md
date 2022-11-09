@@ -4,6 +4,11 @@
 
 > Uma aplicação web para acompanhar o clima de qualquer lugar do mundo em tempo real, voce pode obter informaçoes como: Localização, temperatura , a condição do tempo, umidade do ar e a velocidade do vento.
 
+##
+
+![image](https://user-images.githubusercontent.com/92994715/200915171-0b9cbf94-d6fe-4ea7-a943-9d80848b1960.png)
+
+##
 > Utilizei a API disponibilizada pelo site: https://openweathermap.org/
 
 TECNOLOGIAS E LINGUAGENS UTILIZADAS:
